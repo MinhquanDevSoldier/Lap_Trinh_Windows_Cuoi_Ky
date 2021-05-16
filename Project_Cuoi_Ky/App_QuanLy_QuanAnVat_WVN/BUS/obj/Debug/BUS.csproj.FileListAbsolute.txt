@@ -1,0 +1,11 @@
+D:\Bao-cao\Windows Form\App_QuanLy_QuanAnVat_WVN\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\Bao-cao\Windows Form\App_QuanLy_QuanAnVat_WVN\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Bao-cao\Windows Form\App_QuanLy_QuanAnVat_WVN\BUS\bin\Debug\BUS.dll
+D:\Bao-cao\Windows Form\App_QuanLy_QuanAnVat_WVN\BUS\bin\Debug\BUS.pdb
+D:\Bao-cao\Windows Form\App_QuanLy_QuanAnVat_WVN\BUS\bin\Debug\DAO.dll
+D:\Bao-cao\Windows Form\App_QuanLy_QuanAnVat_WVN\BUS\bin\Debug\DTO.dll
+D:\Bao-cao\Windows Form\App_QuanLy_QuanAnVat_WVN\BUS\bin\Debug\DAO.pdb
+D:\Bao-cao\Windows Form\App_QuanLy_QuanAnVat_WVN\BUS\bin\Debug\DTO.pdb
+D:\Bao-cao\Windows Form\App_QuanLy_QuanAnVat_WVN\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Bao-cao\Windows Form\App_QuanLy_QuanAnVat_WVN\BUS\obj\Debug\BUS.dll
+D:\Bao-cao\Windows Form\App_QuanLy_QuanAnVat_WVN\BUS\obj\Debug\BUS.pdb

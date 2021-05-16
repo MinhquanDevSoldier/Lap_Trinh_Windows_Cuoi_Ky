@@ -1,0 +1,9 @@
+D:\Bao-cao\Windows Form\App_QuanLy_QuanAnVat_WVN\DAO\bin\Debug\DAO.dll
+D:\Bao-cao\Windows Form\App_QuanLy_QuanAnVat_WVN\DAO\bin\Debug\DAO.pdb
+D:\Bao-cao\Windows Form\App_QuanLy_QuanAnVat_WVN\DAO\bin\Debug\DTO.dll
+D:\Bao-cao\Windows Form\App_QuanLy_QuanAnVat_WVN\DAO\bin\Debug\DTO.pdb
+D:\Bao-cao\Windows Form\App_QuanLy_QuanAnVat_WVN\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+D:\Bao-cao\Windows Form\App_QuanLy_QuanAnVat_WVN\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\Bao-cao\Windows Form\App_QuanLy_QuanAnVat_WVN\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\Bao-cao\Windows Form\App_QuanLy_QuanAnVat_WVN\DAO\obj\Debug\DAO.dll
+D:\Bao-cao\Windows Form\App_QuanLy_QuanAnVat_WVN\DAO\obj\Debug\DAO.pdb

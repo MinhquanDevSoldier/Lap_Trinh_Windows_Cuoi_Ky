@@ -1,0 +1,6 @@
+D:\Bao-cao\Windows Form\App_QuanLy_QuanAnVat_WVN\DTO\bin\Debug\DTO.dll
+D:\Bao-cao\Windows Form\App_QuanLy_QuanAnVat_WVN\DTO\bin\Debug\DTO.pdb
+D:\Bao-cao\Windows Form\App_QuanLy_QuanAnVat_WVN\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Bao-cao\Windows Form\App_QuanLy_QuanAnVat_WVN\DTO\obj\Debug\DTO.dll
+D:\Bao-cao\Windows Form\App_QuanLy_QuanAnVat_WVN\DTO\obj\Debug\DTO.pdb
+D:\Bao-cao\Windows Form\App_QuanLy_QuanAnVat_WVN\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
